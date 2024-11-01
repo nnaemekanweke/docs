@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@paybeta.ng"
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://developers.paybeta.ng"
+    "url": "https://developers.mintlify.com"
   },
   "tabs": [
     {
